@@ -26,6 +26,7 @@ public class Day6 {
                 // if the loop is entered then we allow the doWhile loop to break
                 allowBreak = true;
             }
+            break;
         } while (allowBreak == false);
     }
 }
